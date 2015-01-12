@@ -35,7 +35,7 @@
 	<rule ref="PEAR.Commenting.InlineComment" />
 	<rule ref="../TYPO3SniffPool/Sniffs/Commenting/DoubleSlashCommentsInNewLineSniff.php" />
 	<rule ref="../TYPO3SniffPool/Sniffs/Commenting/ValidCommentLineLengthSniff.php" />
-	<rule ref="../TYPO3SniffPool/Sniffs/Commenting/ClassDocCommentSniff.php" />
+	<rule ref="../TYPO3SniffPool/Sniffs/Commenting/ClassCommentSniff.php" />
 	<rule ref="../TYPO3SniffPool/Sniffs/Commenting/NoAuthorAnnotationInFunctionDocCommentSniff.php" />
 
 	<!-- Control structures -->
