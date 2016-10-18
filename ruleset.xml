@@ -57,9 +57,6 @@
 	</rule>
 
 	<!-- Files -->
-	<rule ref="Generic.Files.OneClassPerFile">
-		<exclude-pattern>*typo3/sysext/core/Migrations/Code/LegacyClassesForIde.php</exclude-pattern>
-	</rule>
 	<rule ref="Generic.Files.OneInterfacePerFile" />
 	<rule ref="Generic.Files.ByteOrderMark" />
 	<rule ref="Generic.Files.LineEndings" />
